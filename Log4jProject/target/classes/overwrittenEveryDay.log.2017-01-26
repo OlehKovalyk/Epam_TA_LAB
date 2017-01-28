@@ -1,0 +1,18 @@
+2017-01-26 18:31:44,584 [INFO ][main][com.epam.lab4.application.Application] - Input of numbers until the user will enter 0.
+2017-01-26 18:31:44,588 [WARN ][main][com.epam.lab4.application.Application] - Input of numbers until the user will enter 0.
+2017-01-26 18:31:55,174 [INFO ][main][com.epam.lab4.application.Application] - The end of program.
+2017-01-26 18:52:02,354 [INFO ][main][com.epam.lab4.application.Application] - Find the largest digit of natural number.
+2017-01-26 18:52:05,457 [INFO ][main][com.epam.lab4.application.Application] - The end of program.
+2017-01-26 18:53:11,094 [INFO ][main][com.epam.lab4.application.Application] - Find the count of even digits of some natural number.
+2017-01-26 18:53:13,074 [INFO ][main][com.epam.lab4.application.Application] - Find the count of even digits of some natural number.
+2017-01-26 18:53:14,212 [INFO ][main][com.epam.lab4.application.Application] - Find the count of even digits of some natural number.
+2017-01-26 18:53:15,095 [INFO ][main][com.epam.lab4.application.Application] - Find the count of even digits of some natural number.
+2017-01-26 18:53:15,913 [INFO ][main][com.epam.lab4.application.Application] - Find the count of even digits of some natural number.
+2017-01-26 18:53:16,604 [INFO ][main][com.epam.lab4.application.Application] - Find the count of even digits of some natural number.
+2017-01-26 18:53:17,276 [INFO ][main][com.epam.lab4.application.Application] - Find the count of even digits of some natural number.
+2017-01-26 18:53:17,930 [ERROR][main][com.epam.lab4.application.Application] - You enter incorrect number
+2017-01-26 18:53:20,306 [INFO ][main][com.epam.lab4.application.Application] - Find the count of even digits of some natural number.
+2017-01-26 18:53:24,498 [INFO ][main][com.epam.lab4.application.Application] - The end of program.
+2017-01-26 18:54:48,680 [INFO ][main][com.epam.lab4.application.Application] - The end of program.
+2017-01-26 19:54:38,143 [ERROR][main][com.epam.lab4.application.Application] - com.epam.lab4.exception.IncorectNumberException: You enter incorrect number
+2017-01-26 19:54:56,587 [INFO ][main][com.epam.lab4.application.Application] - The end of program.

@@ -1,0 +1,18 @@
+18:31:44,584 [main] INFO com.epam.lab4.application.Application - Input of numbers until the user will enter 0.
+18:31:44,588 [main] WARN com.epam.lab4.application.Application - Input of numbers until the user will enter 0.
+18:31:55,174 [main] INFO com.epam.lab4.application.Application - The end of program.
+18:52:02,354 [main] INFO com.epam.lab4.application.Application - Find the largest digit of natural number.
+18:52:05,457 [main] INFO com.epam.lab4.application.Application - The end of program.
+18:53:11,094 [main] INFO com.epam.lab4.application.Application - Find the count of even digits of some natural number.
+18:53:13,074 [main] INFO com.epam.lab4.application.Application - Find the count of even digits of some natural number.
+18:53:14,212 [main] INFO com.epam.lab4.application.Application - Find the count of even digits of some natural number.
+18:53:15,095 [main] INFO com.epam.lab4.application.Application - Find the count of even digits of some natural number.
+18:53:15,913 [main] INFO com.epam.lab4.application.Application - Find the count of even digits of some natural number.
+18:53:16,604 [main] INFO com.epam.lab4.application.Application - Find the count of even digits of some natural number.
+18:53:17,276 [main] INFO com.epam.lab4.application.Application - Find the count of even digits of some natural number.
+18:53:17,930 [main] ERROR com.epam.lab4.application.Application - You enter incorrect number
+18:53:20,306 [main] INFO com.epam.lab4.application.Application - Find the count of even digits of some natural number.
+18:53:24,498 [main] INFO com.epam.lab4.application.Application - The end of program.
+18:54:48,680 [main] INFO com.epam.lab4.application.Application - The end of program.
+19:54:38,143 [main] ERROR com.epam.lab4.application.Application - com.epam.lab4.exception.IncorectNumberException: You enter incorrect number
+19:54:56,587 [main] INFO com.epam.lab4.application.Application - The end of program.
