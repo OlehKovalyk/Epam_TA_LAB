@@ -1,0 +1,2 @@
+21:06:26,498 [main] ERROR com.epam.lab10.application.Application - java.io.IOException: Invalid input date!
+21:06:32,131 [main] INFO com.epam.lab10.application.Application - The end of program.
