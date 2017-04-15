@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29470" started-at="2017-04-10T17:42:35Z" finished-at="2017-04-10T17:43:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29470" started-at="2017-04-10T17:42:35Z" finished-at="2017-04-10T17:43:05Z">
+      <class name="GmailTest">
+        <test-method status="PASS" signature="gmailTest(com.epam.model.User)[pri:0, instance:GmailTest@29774679]" name="gmailTest" duration-ms="26317" started-at="2017-04-10T20:42:35Z" data-provider="users" finished-at="2017-04-10T20:43:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.epam.model.User@bb3d828]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailTest -->
+        <test-method status="PASS" signature="gmailTest(com.epam.model.User)[pri:0, instance:GmailTest@29774679]" name="gmailTest" duration-ms="22837" started-at="2017-04-10T20:42:35Z" data-provider="users" finished-at="2017-04-10T20:42:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.epam.model.User@4bee5916]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailTest -->
+        <test-method status="PASS" signature="gmailTest(com.epam.model.User)[pri:0, instance:GmailTest@29774679]" name="gmailTest" duration-ms="27101" started-at="2017-04-10T20:42:35Z" data-provider="users" finished-at="2017-04-10T20:43:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.epam.model.User@108261a6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:GmailTest@29774679]" name="tearDown" is-config="true" duration-ms="1446" started-at="2017-04-10T20:42:58Z" finished-at="2017-04-10T20:43:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:GmailTest@29774679]" name="tearDown" is-config="true" duration-ms="3132" started-at="2017-04-10T20:43:02Z" finished-at="2017-04-10T20:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:GmailTest@29774679]" name="tearDown" is-config="true" duration-ms="1071" started-at="2017-04-10T20:43:02Z" finished-at="2017-04-10T20:43:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- GmailTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
